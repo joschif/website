@@ -54,7 +54,7 @@ academia:
         end_date: '2016'
 ---
 
-I'm a postdoctoral scientist at the newly founded Roche Institute for Human Biology in Basel, Switzerland. I recently graduated from ETH Zürich with a Ph.D. in Computational & Systems Biology. During my PhD in the lab of Barbara Treutlein I used and developed statistical and machine learning methods to decipher the gene regulatory logic of cell fate decisions in brain organoids. My PhD work was also supported by a Boehringer Ingelheim Fonds fellowship. 
+I'm a postdoctoral scientist at the newly founded Roche Institute for Human Biology in Basel, Switzerland. I recently graduated from ETH Zürich with a Ph.D. in Computational & Systems Biology. During my PhD in the lab of Barbara Treutlein I applied and developed statistical and machine learning methods to decipher the gene regulatory logic of cell fate decisions in brain organoids. My PhD work was also supported by a Boehringer Ingelheim Fonds fellowship. 
 
 Before that, I worked as a Master student in the group of Georg Zeller at EMBL Heidelberg, where I developed a method for prediction of biosynthetic gene clusters from metagenomic assemblies using conditional random fields.
 
