@@ -54,8 +54,10 @@ academia:
         end_date: '2016'
 ---
 
-I'm a postdoctoral scientist at the newly founded Roche Institute for Human Biology in Basel, Switzerland. I recently graduated from ETH Zürich with a Ph.D. in Computational & Systems Biology. During my PhD in the lab of Barbara Treutlein I applied and developed statistical and machine learning methods to decipher the gene regulatory logic of cell fate decisions in brain organoids. My PhD work was also supported by a Boehringer Ingelheim Fonds fellowship. 
+I'm a postdoctoral scientist with Gray Camp at the [Institute of Human Biology](https://institutehumanbiology.com/) in Basel. I'm collaborating with Aviv Regev to develop predictive ML models for high-thoughput perturbation screens in organoids and with Fabian Theis to assemble integrated single-cell genomic atlases of various organoid systems. 
+
+I recently graduated from ETH Zürich with a Ph.D. in Computational & Systems Biology. During my PhD in the lab of Barbara Treutlein I applied and developed statistical and machine learning methods to decipher the gene regulatory logic of cell fate decisions in brain organoids. My PhD work was also supported by a Boehringer Ingelheim Fonds fellowship. 
 
 Before that, I worked as a Master student in the group of Georg Zeller at EMBL Heidelberg, where I developed a method for prediction of biosynthetic gene clusters from metagenomic assemblies using conditional random fields.
 
-I am excited about harnessing the power of high-throughput biology using machine learning. By combining in vitro generated organoid systems, high information content (single-cell) phenotyping, and ML/DL, we can significantly advance predictive biology.
+I am excited about the intersection of high-throughput biology and machine learning. By combining in vitro generated organoid systems, high information content (single-cell) phenotyping, and ML/DL, we can significantly advance predictive biology.
