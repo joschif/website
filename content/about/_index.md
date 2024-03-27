@@ -61,4 +61,4 @@ Before that, I worked as a Master student in the group of Georg Zeller at EMBL H
 
 I am excited about the intersection of high-throughput biology and machine learning and I am convinced that it will revolutionize biology towards a more predictive science. I am always open for collaborations and new ideas, so feel free to reach out to me via email or social media.
 
-```
+Outside of science I enjoy all eating and making tasty things, dabbling in graphic design, climbing rocks and building blinking glucose lamps.
