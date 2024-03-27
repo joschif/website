@@ -60,4 +60,6 @@ I recently graduated from ETH Zürich with a Ph.D. in Computational & Systems Bi
 
 Before that, I worked as a Master student in the group of Georg Zeller at EMBL Heidelberg, where I developed a method for prediction of biosynthetic gene clusters from metagenomic assemblies using conditional random fields.
 
-I am excited about the intersection of high-throughput biology and machine learning. By combining in vitro generated organoid systems, high information content (single-cell) phenotyping, and ML/DL, we can significantly advance predictive biology.
+I am excited about the intersection of high-throughput biology and machine learning and I am convinced that it will revolutionize biology towards a more predictive science. I am always open for collaborations and new ideas, so feel free to reach out to me via email or social media.
+
+```
