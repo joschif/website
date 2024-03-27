@@ -11,7 +11,7 @@ authors:
 - J. Gray Camp
 - Barbara Treutlein
 
-date: "2023-09-13"
+date: "2024"
 
 publication: "bioRxiv (accepted in Nat Neurosci)"
 
