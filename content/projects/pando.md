@@ -1,5 +1,5 @@
 ---
-title: "Pando"
+title: "Pando - Multiome GRN inference"
 
 date: "2022-10-05"
 

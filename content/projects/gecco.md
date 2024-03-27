@@ -1,7 +1,5 @@
 ---
-title: "GECCO"
-
-description: Gene Cluster Prediction using Conditional Random Fields
+title: "GECCO - Gene Cluster prediction using Conditional Random Fields"
 
 date: "2021-10-05"
 

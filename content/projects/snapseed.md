@@ -1,5 +1,5 @@
 ---
-title: "snapseed"
+title: "snapseed - GPU-accelerated celltype annotation"
 
 date: "2023-10-05"
 

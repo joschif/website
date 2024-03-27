@@ -1,5 +1,5 @@
 ---
-title: "LatentLego"
+title: "LatentLego - flexible latent spaces for single cells"
 
 date: "2021-04-05"
 
