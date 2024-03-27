@@ -29,7 +29,7 @@ affiliations:
     #     email: "email@cs.stanford.edu"
     - affiliation:
         title: "Scientist"
-        name: "Roche Institute for Human Biology"
+        name: "Roche Institute of Human Biology"
         email: "jonas_simon dot fleck at roche dot com"
 
 academia:
