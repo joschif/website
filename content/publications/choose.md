@@ -15,9 +15,9 @@ authors:
 - Barbara Treutlein
 - Juergen A. Knoblich
 
-date: "2022-09-15"
+date: "2023-09-13"
 
-publication: "bioRxiv"
+publication: "Nature"
 
 links:
     pdf: https://www.biorxiv.org/content/10.1101/2022.09.15.508118v1
