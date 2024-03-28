@@ -1,5 +1,5 @@
 ---
-title: "Single-cell brain organoid screening identifies developmental defects in autism"
+title: "Single-cell epigenomic reconstruction of developmental trajectories in human neural organoid systems from pluripotency"
 authors:
 - Fides Zenk*
 - Jonas Simon Fleck*
